@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsanindyak&label=Profile%20views&color=0e75b6&style=flat" alt="itsanindyak" /> </p>
 
-- 🌱 I’m currently learning **Express JS and MongoDB**
+- 🌱 I’m currently learning **Express JS and PostgreSQL**
 
 - 💬 Ask me about **React**
 
