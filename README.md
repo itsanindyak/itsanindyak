@@ -4,7 +4,6 @@
 
 
 
-- 🔭 I’m currently working on [simple bank](https://github.com/itsanindyak/simpleBank)
 - 🌱 I’m currently learning **go**
 - 💬 Ask me about **React,Next**
 - 📫 How to reach me **iankoley04@gmail.com**
